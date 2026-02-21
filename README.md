@@ -2,8 +2,7 @@
 
 ## Profile
 Computer Engineering student with strong interests in DevOps, system adminis-
-tration, cybersecurity, and modern web development. Experienced in **Linux-based** environ-
-ments, server deployment, automation.
+tration, cybersecurity, and modern web development. Experienced in **Linux-based** environments, server deployment, automation.
 
 ## Technical Skills
 ### Programming & WebDevOps & Systems
