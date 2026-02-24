@@ -4,24 +4,6 @@
 Computer Engineering student with strong interests in DevOps, system adminis-
 tration, cybersecurity, and modern web development. Experienced in **Linux-based** environments, server deployment, automation.
 
-## Technical Skills
-### Programming & WebDevOps & Systems
-- Python
-- JavaScript
-- HTML5, CSS (MVC Pattern)
-- WordPress
-- Linux Administration
-- Server Management
-- Deployment Automation
-- System Administration
-- Vim (Server Editing)
-### Databases & SecurityNetworking & Tools
-- MySQL
-- Database Design
-- Cybersecurity Fundamentals
-- Networking Basics (IT)
-- Wireshark
-- Git
 ## Stats
 <table width="100%">
   <tr>
@@ -41,6 +23,26 @@ tration, cybersecurity, and modern web development. Experienced in **Linux-based
     </td>
   </tr>
 </table>
+
+## Technical Skills
+### Programming & WebDevOps & Systems
+- Python
+- JavaScript
+- HTML5, CSS (MVC Pattern)
+- WordPress
+- Linux Administration
+- Server Management
+- Deployment Automation
+- System Administration
+- Vim (Server Editing)
+### Databases & SecurityNetworking & Tools
+- MySQL
+- Database Design
+- Cybersecurity Fundamentals
+- Networking Basics (IT)
+- Wireshark
+- Git
+
 
 <!--
 **Aydinkh/Aydinkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
