@@ -1,4 +1,4 @@
-# Ciao 🌲🪴💚
+# Ciao 🌲💚
 
 ## Profile
 Computer Engineering student with strong interests in DevOps, system administration, cybersecurity, and modern web development. Experienced in **Linux-based** environments, server deployment, automation.
