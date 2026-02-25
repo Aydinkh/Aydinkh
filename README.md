@@ -1,8 +1,7 @@
 # Ciao 🌲🪴💚
 
 ## Profile
-Computer Engineering student with strong interests in DevOps, system adminis-
-tration, cybersecurity, and modern web development. Experienced in **Linux-based** environments, server deployment, automation.
+Computer Engineering student with strong interests in DevOps, system administration, cybersecurity, and modern web development. Experienced in **Linux-based** environments, server deployment, automation.
 
 ## Stats
 <table width="100%">
